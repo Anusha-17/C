@@ -29,7 +29,8 @@ int main()
 {
 	char input[100];
 	printf("Enter the string :\n");
-	fgets(input,sizeof(input),stdin);
+	//fgets(input,sizeof(input),stdin);
+	gets(input);
 	printf("Original strign : %s\n", input);
 	reverse(input);
 	printf("Reversed string is : %s\n",input);
