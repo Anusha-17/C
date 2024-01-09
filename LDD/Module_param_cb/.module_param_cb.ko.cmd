@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Module_param_cb/module_param_cb.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/anusha/Documents/C/LDD/Module_param_cb/module_param_cb.ko /home/anusha/Documents/C/LDD/Module_param_cb/module_param_cb.o /home/anusha/Documents/C/LDD/Module_param_cb/module_param_cb.mod.o;  true

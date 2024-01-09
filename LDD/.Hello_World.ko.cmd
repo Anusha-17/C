@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Hello_World.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/anusha/Documents/C/LDD/Hello_World.ko /home/anusha/Documents/C/LDD/Hello_World.o /home/anusha/Documents/C/LDD/Hello_World.mod.o;  true

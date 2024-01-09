@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Module_Param/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/anusha/Documents/C/LDD/Module_Param/Module.symvers -T /home/anusha/Documents/C/LDD/Module_Param/modules.order -i Module.symvers -e 
