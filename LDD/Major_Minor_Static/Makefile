@@ -1,4 +1,4 @@
-obj-m+= Hello_World.o
+obj-m+= major_minor_static.o
  #obj-m is to build as module
  #obj-y is to build as statically
  

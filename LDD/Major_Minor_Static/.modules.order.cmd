@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Major_Minor_Static/modules.order := {   echo /home/anusha/Documents/C/LDD/Major_Minor_Static/major_minor_static.o; :; } > /home/anusha/Documents/C/LDD/Major_Minor_Static/modules.order

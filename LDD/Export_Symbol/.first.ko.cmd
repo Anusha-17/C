@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Export_Symbol/first.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/anusha/Documents/C/LDD/Export_Symbol/first.ko /home/anusha/Documents/C/LDD/Export_Symbol/first.o /home/anusha/Documents/C/LDD/Export_Symbol/first.mod.o;  true

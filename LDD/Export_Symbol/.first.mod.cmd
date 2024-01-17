@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Export_Symbol/first.mod := printf '%s\n'   first.o | awk '!x[$$0]++ { print("/home/anusha/Documents/C/LDD/Export_Symbol/"$$0) }' > /home/anusha/Documents/C/LDD/Export_Symbol/first.mod

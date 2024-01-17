@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Export_Symbol/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/anusha/Documents/C/LDD/Export_Symbol/Module.symvers -T /home/anusha/Documents/C/LDD/Export_Symbol/modules.order -i Module.symvers -e 

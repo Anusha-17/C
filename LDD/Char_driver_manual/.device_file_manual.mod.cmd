@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Char_driver_manual/device_file_manual.mod := printf '%s\n'   device_file_manual.o | awk '!x[$$0]++ { print("/home/anusha/Documents/C/LDD/Char_driver_manual/"$$0) }' > /home/anusha/Documents/C/LDD/Char_driver_manual/device_file_manual.mod

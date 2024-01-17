@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Major_Minor_Dynamic/major_minor_dynamic.mod := printf '%s\n'   major_minor_dynamic.o | awk '!x[$$0]++ { print("/home/anusha/Documents/C/LDD/Major_Minor_Dynamic/"$$0) }' > /home/anusha/Documents/C/LDD/Major_Minor_Dynamic/major_minor_dynamic.mod

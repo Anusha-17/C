@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Export_Symbol/modules.order := {   echo /home/anusha/Documents/C/LDD/Export_Symbol/first.o;   echo /home/anusha/Documents/C/LDD/Export_Symbol/second.o; :; } > /home/anusha/Documents/C/LDD/Export_Symbol/modules.order

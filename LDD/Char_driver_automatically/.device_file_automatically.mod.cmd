@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Char_driver_automatically/device_file_automatically.mod := printf '%s\n'   device_file_automatically.o | awk '!x[$$0]++ { print("/home/anusha/Documents/C/LDD/Char_driver_automatically/"$$0) }' > /home/anusha/Documents/C/LDD/Char_driver_automatically/device_file_automatically.mod

@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Char_driver_automatically/modules.order := {   echo /home/anusha/Documents/C/LDD/Char_driver_automatically/device_file_automatically.o; :; } > /home/anusha/Documents/C/LDD/Char_driver_automatically/modules.order

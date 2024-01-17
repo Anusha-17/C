@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Major_Minor_Dynamic/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/anusha/Documents/C/LDD/Major_Minor_Dynamic/Module.symvers -T /home/anusha/Documents/C/LDD/Major_Minor_Dynamic/modules.order -i Module.symvers -e 

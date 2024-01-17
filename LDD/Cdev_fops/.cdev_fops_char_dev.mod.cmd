@@ -1,0 +1,1 @@
+cmd_/home/anusha/Documents/C/LDD/Cdev_fops/cdev_fops_char_dev.mod := printf '%s\n'   cdev_fops_char_dev.o | awk '!x[$$0]++ { print("/home/anusha/Documents/C/LDD/Cdev_fops/"$$0) }' > /home/anusha/Documents/C/LDD/Cdev_fops/cdev_fops_char_dev.mod
