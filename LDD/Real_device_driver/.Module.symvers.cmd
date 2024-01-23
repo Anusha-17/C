@@ -1,1 +1,0 @@
-cmd_/home/anusha/Documents/C/LDD/Real_device_driver/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/anusha/Documents/C/LDD/Real_device_driver/Module.symvers -T /home/anusha/Documents/C/LDD/Real_device_driver/modules.order -i Module.symvers -e 

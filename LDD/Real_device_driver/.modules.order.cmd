@@ -1,1 +1,0 @@
-cmd_/home/anusha/Documents/C/LDD/Real_device_driver/modules.order := {   echo /home/anusha/Documents/C/LDD/Real_device_driver/real_device_driver.o; :; } > /home/anusha/Documents/C/LDD/Real_device_driver/modules.order
