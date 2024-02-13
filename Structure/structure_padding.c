@@ -47,12 +47,15 @@ int main()
 struct test
 {
 	int a : 5;
-	int b : 8;
+	int b : 10;
 	int c;
 }s1;
 int main()
 {
 	printf("Size  of s1 = %ld \n",sizeof(s1));
+	//printf("Size  of a = %ld \n",sizeof(s1.a));
+	//printf("Size  of b = %ld \n",sizeof(s1.b));
+	printf("Size  of c = %ld \n",sizeof(s1.c));
 	
 	
 }
